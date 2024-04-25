@@ -1,6 +1,6 @@
 # RPC框架总体基本流程
 
-![RPC框架基本流程](![](https://engroc.oss-cn-fuzhou.aliyuncs.com/Typora/202404252247760.png))
+[![RPC框架基本流程](![](https://engroc.oss-cn-fuzhou.aliyuncs.com/Typora/202404252247760.png))](https://engroc.oss-cn-fuzhou.aliyuncs.com/Typora/202404252247760.png)
 
 # RPC项目树
 
